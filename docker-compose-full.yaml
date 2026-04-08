@@ -1,7 +1,7 @@
 version: '3'
 services:
   java-app:
-    image: nanatwn/demo-app:java-maven-2.0
+    image: malware4/java-maven-app:bootcamp-java-mysql-project-1.0
     environment:
       - DB_USER=user
       - DB_PWD=pass
